@@ -1,6 +1,6 @@
 #!/bin/sh
 
-NAME="[TEST DAEMON]"
+NAME="[Selenium]"
 PID="./selenium.pid"
 CMD="ruby selenium_daemon.rb"
 
